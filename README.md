@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/Pradeep743/Challenge-Huddle-Landing-page-with-single-introductory-section)
-- Live Site URL: [Visit site](https://pradeep743.github.io/Challenge-Huddle-Landing-page-with-single-introductory-section/)
+- Solution URL: [View Code](https://github.com/Pradeep743/Challenge-3-column-preview-card-component)
+- Live Site URL: [Visit site](https://pradeep743.github.io/Challenge-3-column-preview-card-component/)
 
 ## My process
 
